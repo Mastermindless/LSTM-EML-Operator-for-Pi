@@ -175,15 +175,6 @@ lstm-eml-pi/
 └── LICENSE                    <- MIT
 ```
 
-Suggested commit sequence:
-1. `chore: initial EML operator + mpmath reference`
-2. `feat: pi batch generator with shortcut toggle`
-3. `feat: LSTM controller + scale-homogeneous loss`
-4. `feat: curriculum trainer with REINFORCE refinement`
-5. `feat: interactive inference CLI`
-6. `docs: concept + critic + README with figures`
-
-
 ---
 
 ## License
