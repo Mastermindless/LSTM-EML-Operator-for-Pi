@@ -190,8 +190,7 @@ Suggested commit sequence:
 
 ## License
 
-MIT. The EML operator code in `EML_operator.md` is adapted from the original
-paper's reference implementation.
+MIT. The EML operator code in is adapted from the original paper's reference implementation.
 
 ---
 
