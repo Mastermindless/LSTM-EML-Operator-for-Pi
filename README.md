@@ -158,7 +158,6 @@ lstm-eml-pi/
 ├── README.md                  <- this file
 ├── concept_EML_LSTM_pi.md
 ├── critic_EML_LSTM_pi.md
-├── EML_operator.md
 ├── src/
 │   ├── eml_operator.py
 │   ├── pi_generator.py
@@ -170,10 +169,6 @@ lstm-eml-pi/
 │   ├── loss_landscape.png     <- surrogate loss vs. P' at various N
 │   ├── curriculum_curve.png   <- training loss across phases
 │   └── digit_recall.png       <- perfect-match rate vs. N (shortcut vs. hard)
-├── notebooks/
-│   ├── 01_quickstart.ipynb
-│   └── 02_hard_mode_probe.ipynb
-├── requirements.txt           <- torch, mpmath, matplotlib
 └── LICENSE                    <- MIT
 ```
 
