@@ -164,6 +164,12 @@ lstm-eml-pi/
 │   ├── lstm_eml_model.py
 │   ├── train.py
 │   └── inference.py
+├── src_mps/ # for macbook gpu
+│   ├── eml_operator.py
+│   ├── pi_generator.py
+│   ├── lstm_eml_model.py
+│   ├── train.py
+│   └── inference.py
 ├── src_DLD_Loss/
 │   ├── eml_lstm_pi.py
 │   └── README.md
