@@ -4,6 +4,7 @@
 > so that a hybrid neural / symbolic system outputs **π to any requested number
 > of digits** — from 5 up to 9 999 and beyond.*
 
+by Schwill M. 2026; https://doi.org/10.5281/zenodo.19714280
 ---
 
 ## TL;DR for a wide audience
